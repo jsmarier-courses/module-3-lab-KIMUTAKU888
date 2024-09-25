@@ -1,0 +1,19 @@
+
+  h1 {
+    color: #333;
+    font-size: 50px;
+  }
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  img {
+    width: 600px;
+  }
+  .intropara {
+    font-size: 14px;
+    color: rgb(183, 9, 9);
+  }
+  figcaption{
+    font-size: 30px;
+  }
